@@ -4,7 +4,7 @@ she/her
 </p>
 
 <p align="center">
- <img width="640" height="512" src="https://github.com/sweetlysunny/sweetlysunny/assets/157447069/dc65f1bf-de1c-45c0-b0fa-ed5f72039486"
+ <img width="427" height="341" src="https://github.com/sweetlysunny/sweetlysunny/assets/157447069/dc65f1bf-de1c-45c0-b0fa-ed5f72039486"
    </p>
 
 
